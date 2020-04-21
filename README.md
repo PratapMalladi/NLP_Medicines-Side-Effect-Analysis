@@ -12,14 +12,10 @@ The distributed information in the form of blogs or specialized websites for use
 
 A complete end-to-end system would take this unstructured data into consideration and transform it into useable features, which in turn are used by suitable algorithms to determine whether the drug will be effective or not, given review(s) of the drug.
 
-##Objectives of the final system would be:
+## Objectives of the final system would be:
 
 Providing an overview of the effectiveness and adverse reactions of a drug, aggregated from individual auto-classified reviews into three distinct categories, that are, effective, ineffective and adverse.
 
 Visually represent and compare drugs for adverseness, giving further insights into the reviews for each drug, ranked by each category.
-
-###Business objective - 
-
-##To provide detailed rating of the side effects of the particular drug on Digital Consumer Healthcare platform site, whihch helps the patients who are buying drugs online to check the side effects of the drugs before buying it.
 
 ##Code Can't be disclosed as part of the legalities involved, only very high level presentation is shared and available research papers on the Business problem context because I feel working in data science and machine learning is an exciting and challenging field. New techniques and tools are constantly percolating and honestly, it can feel overwhelming. Many of these new developments are found and first revealed in academic research articles. Extracting knowledge from these articles is difficult because the intended audience of these papers tend to be other researchers. Yet in order to stay current reading papers is an essential skill — luckily one that can be improved with diligence and practice.
